@@ -1,0 +1,9 @@
+{
+	"name": "SanjanaDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fcc5ff66-ab77-482f-af36-0901e0d30c4b",
+		"tenantId": "7db7e43b-06ca-44ea-a29a-58d4bdbcf4f7"
+	}
+}
